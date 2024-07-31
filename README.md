@@ -7,7 +7,7 @@ Supports multiple currencies
 User-friendly interface
 Responsive design for mobile and desktop
 Demo
-You can check out the live demo of the application here.
+You can check out the live demo of the application here [https://jaxthecodex.github.io/Online-Currency-Converter/].
 
 Screenshots
 
